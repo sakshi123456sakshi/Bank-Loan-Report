@@ -1,8 +1,7 @@
 🏦**Bank Loan Dashboard** <br>
 ----------------------------------------------------
-This Power BI dashboard provides a comprehensive analysis of bank loan data, offering actionable insights into loan performance, approval trends, customer segmentation, and overall financial health.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--------------
+- This Power BI dashboard provides a comprehensive analysis of bank loan data, offering actionable insights into loan performance, approval trends, customer segmentation, and overall financial health.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌐**View Interactive Dashboard**
 👉 Click here to view the live Power BI dashboard
 
