@@ -15,7 +15,7 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data, off
 - Total Funded Amount: $45.6M<br>
 - Total Amount Received: $41.2M<br>
 - Average Interest Rate: 12.5%<br>
-- Average Loan Term: 36 months<br>
+- Average Loan Term: 36 months
 1️⃣ **Overview Analysis**<br>
 - A high-level summary of the bank’s loan portfolio, including:<br>
 - Loan status breakdown (Fully Paid, Charged Off, Current).<br>
