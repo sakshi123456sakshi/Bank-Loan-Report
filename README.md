@@ -16,6 +16,7 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data, off
 - Total Amount Received: $41.2M<br>
 - Average Interest Rate: 12.5%<br>
 - Average Loan Term: 36 months<br>
+
 1️⃣ **Overview Analysis**<br>
 - A high-level summary of the bank’s loan portfolio, including:<br>
 - Loan status breakdown (Fully Paid, Charged Off, Current).<br>
@@ -52,8 +53,7 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data, off
 ------------------------------------------------------------------------ 
 📁 **Folder Structure**
 ------------------------------------------------------------------------------------------------------------------------
-bank-loan-dashboard/
-│
+- bank-loan-dashboard/
 ├── Bank_Loan_Analysis.pbix
 ├── Bank Loan Dataset.xlsx
 ├── Dashboard Image/
@@ -68,13 +68,13 @@ bank-loan-dashboard/
 4. Optionally, connect your own dataset to perform a live analysis.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------
-📈 **Key Insights**
-------------------------------------------------------
-💡 Identify top-performing loan categories and customer segments.
-💡 Analyze loan default patterns to improve risk management.
-💡 Discover trends in loan approvals and repayments across time.
-💡 Evaluate income levels, DTI ratios, and employment factors affecting loan status.
-💡 Support strategic decisions with clear, data-driven financial metrics.
+📈 **Key Insights** <br>
+---------------------------------------------
+- Identify top-performing loan categories and customer segments.
+- Analyze loan default patterns to improve risk management.
+- Discover trends in loan approvals and repayments across time.
+- Evaluate income levels, DTI ratios, and employment factors affecting loan status.
+- Support strategic decisions with clear, data-driven financial metrics.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------
 👩‍💻 **Author**
