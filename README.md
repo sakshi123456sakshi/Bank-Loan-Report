@@ -78,5 +78,5 @@
 
 👩‍💻 **Author**
 
-Sakshi Bhagat
+Sakshi Bhagat<br>
 🌐 [LinkedIn Profile](https://github.com/sakshi123456sakshi)
