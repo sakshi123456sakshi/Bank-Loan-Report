@@ -1,4 +1,5 @@
-🏦 **Bank Loan Dashboard**
+🏦**Bank Loan Dashboard** <br>
+----------------------------------------------------
 This Power BI dashboard provides a comprehensive analysis of bank loan data, offering actionable insights into loan performance, approval trends, customer segmentation, and overall financial health.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------
@@ -10,17 +11,17 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data, off
 **Dashboard Sections**
 -------------------------------------------------------------------------------------------------------------------------
 - The dashboard is designed to analyze key metrics across several dimensions:
-- Total Loan Applications: 25.4K
-- Total Funded Amount: $45.6M
-- Total Amount Received: $41.2M
-- Average Interest Rate: 12.5%
-- Average Loan Term: 36 months
-1️⃣ **Overview Analysis**
-- A high-level summary of the bank’s loan portfolio, including:
-- Loan status breakdown (Fully Paid, Charged Off, Current).
-- Total funded amount vs. total received amount.
-- Distribution of loan grades and sub-grades.
-- Loan purposes (e.g., Debt Consolidation, Home Improvement, Small Business).
+- Total Loan Applications: 25.4K<br>
+- Total Funded Amount: $45.6M<br>
+- Total Amount Received: $41.2M<br>
+- Average Interest Rate: 12.5%<br>
+- Average Loan Term: 36 months<br>
+1️⃣ **Overview Analysis**<br>
+- A high-level summary of the bank’s loan portfolio, including:<br>
+- Loan status breakdown (Fully Paid, Charged Off, Current).<br>
+- Total funded amount vs. total received amount.<br>
+- Distribution of loan grades and sub-grades.<br>
+- Loan purposes (e.g., Debt Consolidation, Home Improvement, Small Business).<br>
 
 2️⃣**Customer Analysis**
 - Insights into the borrower profiles and demographics, such as:
