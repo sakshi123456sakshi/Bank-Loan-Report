@@ -53,10 +53,10 @@ This Power BI dashboard provides a comprehensive analysis of bank loan data, off
 ------------------------------------------------------------------------ 
 📁 **Folder Structure**
 ------------------------------------------------------------------------------------------------------------------------
-- bank-loan-dashboard/
-├── Bank_Loan_Analysis.pbix
-├── Bank Loan Dataset.xlsx
-├── Dashboard Image/
+- bank-loan-dashboard/ <br>
+├── Bank_Loan_Analysis.pbix <br>
+├── Bank Loan Dataset.xlsx <br>
+├── Dashboard Image/ <br>
 └── README.md
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------
